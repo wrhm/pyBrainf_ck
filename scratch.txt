@@ -1,0 +1,16 @@
+SYNTAX
+GT	increment the data pointer
+LT	decrement the data pointer
+PL	increment the byte at the data pointer
+MI	decrement the byte at the data pointer
+PD	output the byte at the data pointer
+CM	accept one byte of input and store at the data pointer
+LB	begin loop if current byte is not zero
+RB	end loop
+
++
+[[>+>+<<-]
+>>+<<
+>[-<+>]
+>[-<+>]
+<]
