@@ -4,7 +4,7 @@ A brainf*ck interpreter written in Python.
 
 ### What is brainf*ck?
 
-brainf*ck is a Turing-complete language consisting of only 8 distinct characters: "><+-.,[]" (ignoring the quotes). All other characters are ignored by the interpreter (treated as commentary).
+[brainf*ck](https://en.wikipedia.org/wiki/Brainfuck) is a Turing-complete language consisting of only 8 distinct characters: "><+-.,[]" (ignoring the quotes). All other characters are ignored by the interpreter (treated as commentary).
 
 ##### Syntax (brainf*ck-friendly)
  - GT: increment the data pointer  
